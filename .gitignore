@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+/.DS_Store
+/.vscode
+/.idea
+/.pytest_cache
+/.mypy_cache
+/.venv
+.venv/
+__pycache__/
